@@ -1,0 +1,93 @@
+body{
+	background-color: #f8f8f8;
+	font-family: "Roboto", sans-serif;
+}
+
+h1{
+	font-weight: bold;
+}
+
+h2{
+	font-size:32px;
+	font-weight: lighter;
+}
+
+h3{
+	font-size: 16px;
+	font-weight:bold;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.margin-top-10{
+	margin-top: 10px;
+}
+
+.grey{
+	color:grey;
+}
+
+.menu{
+	float: right;
+}
+.menu li a{
+	color: grey;
+}
+
+.menu li a:hover{
+	color: black;
+}
+
+.showcase{
+	background-image: url('../images/hero-background.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+.showcase .grid-x{
+	min-height: 500px;
+}
+
+.showcase h3,
+.showcase h1,
+.showcase p{
+	color:#e9e9e9;
+}
+
+.showcase .buy-now{
+	color:white;
+	border:1px solid white;
+	font-weight: bold;
+	padding:10px 30px 10px 30px;
+	margin-top: 10px;
+	border-radius:5px;
+}
+
+.showcase .buy-now:hover{
+	background-color:#f5b850;
+}
+
+.product{
+	padding-bottom:60px;
+	background-color: #f4f4f4f4;
+}
+
+.padding-top-60{
+	padding-top:60px;
+}
+
+.press{
+	padding:60px 0 60px 0;
+}
+
+.press img{
+	margin:20px;
+}
+
+footer{
+	padding:20px 10px;
+	border-top:2px solid lightgrey;
+}
+
+
+
